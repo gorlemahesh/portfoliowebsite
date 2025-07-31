@@ -1,3 +1,5 @@
 # pythonchallenge
-    welcome
+command to check the hidden files
+
+    ll-a
 
