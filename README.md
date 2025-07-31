@@ -1,5 +1,3 @@
 # pythonchallenge
-
-
-        welcome
+    welcome
 
