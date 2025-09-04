@@ -1,6 +1,6 @@
 # pythonchallenge
 
-command to check the hidden files
+#command to check the hidden files
     
     cd Downloads
 
